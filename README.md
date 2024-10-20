@@ -46,9 +46,9 @@
 - ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
 - ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
 - ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
-- ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
+- ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac, Linux)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(Windows, Mac, Android)*
-- 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
+- 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, Linux, iOS)*
 - 💵 [Corel Painter](https://www.painterartist.com) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
 - 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
